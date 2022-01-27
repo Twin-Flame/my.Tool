@@ -13,14 +13,19 @@ There is a little play between the dies and the compression tool cylinder mount.
 I Did more inspeciton of the tool and found the issue: It's the Casting. or atleast the machining of it.
 The casting Die Holder has arms that are only on one side, and are asymmetric and are in my opinion not designed correctly. If the "width of them were extended a little to make them stronger! and cover the entire side. I think this tool would be perfect. As it is: it is creating a Torquing between the threads & the Die, and my particular model has a slighth been along the arms. It seems to be less than 5 degrees, and is hardly noticable. but yes, that is indeed, what's causing the bad flares, imo.
 
-of course I never tell me that stock that's how it was why I was Wired from the factory cancer hi hey okay okay alright so beautiful hey oh my god oh boy I don't live here but or be here yeah where do you need me which one is this your doing I can earn
+That or/and the Thread cutting tool was out of alignment! I'm trying to find a pipe that fits it so I can test & measure that. What size are those threads?
 
+In any case all flares coming out are not usable. I consider that unacceptable on a precision too like this. But I think it might just be my unit. and regardless a simple redesign of the casting should fix it entirely.
+
+Option 1: return.
 ...
+Option 2:
 I have a shop press and can attempt to heat it and bend it back?
 
 But can you give me more information about it?
 what type of aloy is this casting made out of? It's very dense.
 
+Option 3:
 Do you have a way to buy spare or replacement parts?
 
-Can you ship me another one? Just that one part? i'll see if it has the same problem? and bend & fix the original one.
+Can you ship me another casting? Just that one part? i'll see if it has the same problem? and then I'd feel safe trying to bend & fix the original one.
